@@ -3,7 +3,7 @@ Frontend Developer and AQA (python).
 Self-taught frontend developer and software AQA engineer with a great comprehension of JavaScript, HTML and CSS, Python. Background in IT recruitment (5+ years), test automation. Interested in growing as a skilled software engineer with a good knowledge of automation testing.
 
 # My skills
-CSS Selectors · HTML · Test Automation · Test Automation Tools · GitHub · Selenium · Trello · XPath · User Stories · Test Cases · Slack · Python · Git · Checklists · Test Cases · Web Testing · UI Testing · HTML5 · Jira · Exploratory Testing · Chrome Developer Tools · Postman API · SQL ·Pycharm
+CSS Selectors · HTML · Test Automation · Test Automation Tools · GitHub · Selenium · Trello · XPath · User Stories · Test Cases · Slack · Python · Git · Checklists · Test Cases · Web Testing · UI Testing · HTML5 · Jira · Exploratory Testing · Chrome Developer Tools · Postman API · SQL · Pycharm
 
 
 # Code
@@ -34,7 +34,7 @@ document.write(step1, step2, step3, step4, step5)
 * 🏷️ [Discord](Yana_G#5658)
 * [Notable projects](https://github.com/gurinowicz/rssschool-cv)
 
-My goal Is to get as much knowledge as possible, the ability to write concise algorithms, to study well js for employment as a frontend developer with a knowledge in testing in a good company.
+My goal is to get as much knowledge as possible, the ability to write concise algorithms, to study well js for employment as a frontend developer with a knowledge in testing in a good company.
 
 # Education
 
@@ -60,6 +60,5 @@ My goal Is to get as much knowledge as possible, the ability to write concise al
 * English — Intermediate+
 * Spanish, Ukranian — Pre-Intermediate
 <br>
-<br>
 
-[<img align="center" alt="rsschool" width="100px"  src="img/rs.school.svg" />](https://rs.school/)  
+
