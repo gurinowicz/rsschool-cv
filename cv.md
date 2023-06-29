@@ -38,15 +38,20 @@ My goal Is to get as much knowledge as possible, the ability to write concise al
 
 # Education
 
-* Belarusian State University Bachelor of Geography and Tourism Management
+* Belarusian State University
+  * Bachelor of Geography and Tourism Management
 
-* Custom Academy Bachelor of customs
+* Custom Academy
+  * Bachelor of customs
 
 * Prince Songla University Faculty of Hotel, Restaurant, Tourism Industry
+  * Tourism management
 
-* Redrover.school, AQA
+* Redrover.school
+  * AQA
 
-* The Rolling Scopes School JavaScript Frontend Developer
+* The Rolling Scopes School
+  * JavaScript Frontend Developer
 
 # Languages
 
@@ -57,4 +62,4 @@ My goal Is to get as much knowledge as possible, the ability to write concise al
 <br>
 <br>
 
-[<img align="center" alt="rsschool" width="100px"  src="img/rs.school/images/rs_school.svg"/>](https://rs.school/)  
+[<img align="center" alt="rsschool" width="100px"  src="img/rs.school.svg" />](https://rs.school/)  
