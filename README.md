@@ -1,2 +1,4 @@
-# [rsschool-cv](https://gurinowicz.github.io/rsschool-cv/cv)
-# [CV](https://gurinowicz.github.io/rsschool-cv/)
+My CV - RSSchool project task
+CV-MarkDown: https://gurinowicz.github.io/rsschool-cv/cv
+
+HTML, CSS: https://gurinowicz.github.io/rsschool-cv/
